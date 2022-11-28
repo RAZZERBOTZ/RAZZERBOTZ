@@ -1,4 +1,4 @@
-// S C R I P T  O R I  B Y  Bochilgaming 🔭
+// uu 🔭
 // Ditulis Ulang Oleh ImYanXiao
 // Credits, jangan dihapus atau diubah!
 
@@ -51,7 +51,7 @@ global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
 global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
+global.snh = 'https://chat.whatsapp.com/JibhHO3sMrP7UOVKjt1OHC'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085736178354' //Nomor Danamu
@@ -60,14 +60,14 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nomorown = '62895801745200' //Nomor Owner
+global.namebot = 'RAZZERBOTZ' //Nama Bot
+global.nameown = 'EZZARYGY' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['62895801745200', 'RAZZERBOTZ? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
